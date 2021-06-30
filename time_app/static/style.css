@@ -1,0 +1,30 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+#wrapper {
+    font-size: 25px;
+}
+
+#text {
+    display: flex;
+    justify-content: center;
+}
+
+h2 {
+    width: fit-content;
+    border: 1px solid black;
+    padding: 20px;
+    margin: 20px;
+}
+
+#datetime {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+#dt {
+    width: 33%;
+}
